@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "c048d130b2ad8c541b788a97d5ce9585"
+build_time: [1589351487, 920650000]
+inputs:
+  "/Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/YogaKit/YogaKit/Source/YGLayoutExtensions.swift": [1589350623, 66616938]

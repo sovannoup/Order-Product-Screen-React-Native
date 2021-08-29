@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Flipper/xplat/Flipper/CertificateUtils.cpp \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Target\ Support\ Files/Flipper/Flipper-prefix.pch \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Flipper/xplat/Flipper/CertificateUtils.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/pem.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/e_os2.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/opensslconf.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/opensslconf-x86_64.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/bio.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/crypto.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/stack.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/safestack.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/opensslv.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/ossl_typ.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/symhacks.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/evp.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/objects.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/obj_mac.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/asn1.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/bn.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/x509.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/buffer.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/ec.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/ecdsa.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/ecdh.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/rsa.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/dsa.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/dh.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/sha.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/x509_vfy.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/lhash.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/pkcs7.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/pem2.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Public/Flipper-Folly/folly/portability/Fcntl.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Public/Flipper-Folly/folly/portability/SysStat.h

@@ -1,0 +1,47 @@
+dependencies: \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Flipper-Folly/folly/synchronization/Hazptr.cpp \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Target\ Support\ Files/Flipper-Folly/Flipper-Folly-prefix.pch \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Private/Flipper-Folly/folly/synchronization/Hazptr.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Private/Flipper-Folly/folly/synchronization/Hazptr-fwd.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Private/Flipper-Folly/folly/synchronization/HazptrDomain.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Private/Flipper-Folly/folly/synchronization/HazptrObj.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Private/Flipper-Folly/folly/synchronization/detail/HazptrUtils.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Private/Flipper-Folly/folly/Portability.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Private/Flipper-Folly/folly/CPortability.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Private/Flipper-Folly/folly/portability/Config.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Private/Flipper-Folly/folly/synchronization/detail/Sleeper.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Private/Flipper-Folly/folly/portability/Asm.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Private/Flipper-Folly/folly/portability/Time.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Public/Flipper-Glog/glog/logging.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Public/Flipper-Glog/glog/log_severity.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Public/Flipper-Glog/glog/vlog_is_on.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Private/Flipper-Folly/folly/concurrency/CacheLocality.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Private/Flipper-Folly/folly/Indestructible.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Private/Flipper-Folly/folly/Traits.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Private/Flipper-Folly/folly/Likely.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Private/Flipper-Folly/folly/Memory.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Private/Flipper-Folly/folly/ConstexprMath.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Private/Flipper-Folly/folly/functional/Invoke.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Private/Flipper-Folly/folly/Preprocessor.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Private/Flipper-Folly/folly/lang/Align.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Private/Flipper-Folly/folly/lang/Exception.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Private/Flipper-Folly/folly/CppAttributes.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Private/Flipper-Folly/folly/portability/Malloc.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Private/Flipper-Folly/folly/hash/Hash.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Private/Flipper-Folly/folly/Utility.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Private/Flipper-Folly/folly/functional/ApplyTuple.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Private/Flipper-Folly/folly/hash/SpookyHashV1.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Private/Flipper-Folly/folly/hash/SpookyHashV2.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Private/Flipper-Folly/folly/lang/Bits.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Private/Flipper-Folly/folly/lang/Assume.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Private/Flipper-Folly/folly/portability/Builtins.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Private/Flipper-Folly/folly/system/ThreadId.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Private/Flipper-Folly/folly/portability/PThread.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Private/Flipper-Folly/folly/portability/SysSyscall.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Private/Flipper-Folly/folly/portability/Unistd.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Private/Flipper-Folly/folly/portability/Windows.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Private/Flipper-Folly/folly/synchronization/HazptrRec.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Private/Flipper-Folly/folly/synchronization/HazptrThrLocal.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Private/Flipper-Folly/folly/synchronization/AsymmetricMemoryBarrier.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Private/Flipper-Folly/folly/synchronization/HazptrHolder.h \
+  /Users/smeyakboy/react-native/Suno/newProjectConfig/ios/Pods/Headers/Private/Flipper-Folly/folly/synchronization/HazptrObjLinked.h

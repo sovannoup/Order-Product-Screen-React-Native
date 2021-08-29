@@ -1,0 +1,6 @@
+module Pods_newProjectConfig_newProjectConfigTests {
+  umbrella header "Pods-newProjectConfig-newProjectConfigTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
